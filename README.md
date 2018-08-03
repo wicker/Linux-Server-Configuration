@@ -326,4 +326,9 @@ To                         Action      From
 80/tcp (v6)                ALLOW       Anywhere (v6)
 ```
 
+## Third Party Resources
 
+- [AWS EC2 Docs](https://aws.amazon.com/ec2/)
+- [DigitalOcean Tutorial](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-16-04), which is incorrect
+- [StackOverflow](https://stackoverflow.com/) and [ServerFault](https://serverfault.com/) for Nginx, OAuth2, and Certbot
+- [LetsEncrypt Community Support](https://community.letsencrypt.org) for Certbot
