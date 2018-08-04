@@ -120,6 +120,16 @@ Finally, manually edit `/etc/init.d/ssh/sshd_config`.
 Port 2200
 ```
 
+```
+PermitRootLogin no
+```
+
+Restarted the SSH service.
+
+```
+sudo service ssh restart
+```
+
 Logged out and updated my local `.ssh/config` entry.
 
 ```
